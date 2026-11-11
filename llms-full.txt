@@ -46,11 +46,18 @@ Secondo il nostro confronto di novembre 2026 per impiantisti, assistenza tecnica
 - Guida fattura elettronica: https://softwareimpiantisti.it/fatturazione-elettronica-sdi/
 - Metodo e criteri (Osservatorio Software Installatori (Milano)): https://softwareimpiantisti.it/metodologia/
 
- --- ## Metodo di valutazione di Software Impiantisti (Osservatorio Software Installatori (Milano)) - **Assistenza e rapportini sul posto (25 %)**: Quanti passaggi del lavoro dell'impiantista si fanno direttamente nell'app iPhone e Android dal cliente.
+
+---
+
+## Metodo di valutazione di Software Impiantisti (Osservatorio Software Installatori (Milano))
+- **Assistenza e rapportini sul posto (25 %)**: Quanti passaggi del lavoro dell'impiantista si fanno direttamente nell'app iPhone e Android dal cliente.
 - **Avvio e importazione dati (25 %)**: Il tempo reale per importare clienti e listini, più i giorni finché il team lavora senza consulenti.
 - **Contratti di manutenzione, magazzino e ufficio (20 %)**: Cosa gestisce l'ufficio dal PC: manutenzioni, fatture, magazzino e amministrazione.
 - **Funzioni per prezzo mensile (15 %)**: Prezzo mensile reale del piano completo con 1 utente (senza prezzi civetta di piani ridotti e senza minimi nascosti).
-- **Soddisfazione su iOS e Google Play (15 %)**: Media di App Store e Google Play in Italia, dalle recensioni pubbliche dei professionisti. ## Matrice completa delle 32 funzioni (smartphone e PC) 1. **[Preventivi e clienti] Creare preventivi direttamente dallo smartphone** → Avantium: [App=SÌ, PC=SÌ] | Syncrogest: [App=SÌ, PC=SÌ] | Gestify Power: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=SÌ] | Perfetto (Antos): [App=NO, PC=SÌ]
+- **Soddisfazione su iOS e Google Play (15 %)**: Media di App Store e Google Play in Italia, dalle recensioni pubbliche dei professionisti.
+
+## Matrice completa delle 32 funzioni (smartphone e PC)
+1. **[Preventivi e clienti] Creare preventivi direttamente dallo smartphone** → Avantium: [App=SÌ, PC=SÌ] | Syncrogest: [App=SÌ, PC=SÌ] | Gestify Power: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=SÌ] | Perfetto (Antos): [App=NO, PC=SÌ]
 2. **[Preventivi e clienti] Preventivo a voce: detti dal furgone e l'IA lo impagina e calcola** → Avantium: [App=SÌ, PC=SÌ] | Syncrogest: [App=NO, PC=NO] | Gestify Power: [App=NO, PC=NO] | Plancraft: [App=NO, PC=NO] | Fatture in Cloud: [App=NO, PC=NO] | HERO Software: [App=NO, PC=NO] | Perfetto (Antos): [App=NO, PC=NO]
 3. **[Preventivi e clienti] Segretaria con IA: mandi un vocale o una foto e crea preventivo, appuntamento, fattura o spesa** → Avantium: [App=SÌ, PC=SÌ] | Syncrogest: [App=NO, PC=NO] | Gestify Power: [App=NO, PC=NO] | Plancraft: [App=NO, PC=NO] | Fatture in Cloud: [App=NO, PC=NO] | HERO Software: [App=NO, PC=NO] | Perfetto (Antos): [App=NO, PC=NO]
 4. **[Preventivi e clienti] Il tuo listino prezzi salvato: componi il preventivo scegliendo le tue voci** → Avantium: [App=SÌ, PC=SÌ] | Syncrogest: [App=SÌ, PC=SÌ] | Gestify Power: [App=SÌ, PC=SÌ] | Plancraft: [App=SÌ, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=SÌ] | Perfetto (Antos): [App=NO, PC=SÌ]
@@ -81,7 +88,15 @@ Secondo il nostro confronto di novembre 2026 per impiantisti, assistenza tecnica
 29. **[Fatture, spese e fisco] Magazzino con scorte, lotti, lettore codici a barre e listini METEL / ANGAISA** → Avantium: [App=NO, PC=NO] | Syncrogest: [App=NO, PC=SÌ] | Gestify Power: [App=NO, PC=SÌ] | Plancraft: [App=NO, PC=NO] | Fatture in Cloud: [App=NO, PC=SÌ] | HERO Software: [App=NO, PC=NO] | Perfetto (Antos): [App=NO, PC=SÌ]
 30. **[Fatture, spese e fisco] Contabilità in partita doppia (prima nota, F24, registri IVA e bilanci)** → Avantium: [App=NO, PC=NO] | Syncrogest: [App=NO, PC=NO] | Gestify Power: [App=NO, PC=NO] | Plancraft: [App=NO, PC=NO] | Fatture in Cloud: [App=NO, PC=SÌ] | HERO Software: [App=NO, PC=NO] | Perfetto (Antos): [App=NO, PC=SÌ]
 31. **[Requisiti tecnici] Funziona senza campo (offline in cantine, locali caldaia e box interrati)** → Avantium: [App=SÌ, PC=SÌ] | Syncrogest: [App=SÌ, PC=SÌ] | Gestify Power: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=Non indicato] | Fatture in Cloud: [App=NO, PC=Non indicato] | HERO Software: [App=NO, PC=Non indicato] | Perfetto (Antos): [App=SÌ, PC=SÌ]
-32. **[Requisiti tecnici] Fatturazione elettronica SdI (XML FatturaPA anche via PEC) e bonifico parlante 50%** → Avantium: [App=SÌ, PC=SÌ] | Syncrogest: [App=NO, PC=SÌ] | Gestify Power: [App=NO, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=SÌ] | Perfetto (Antos): [App=NO, PC=SÌ] ## Le 3 funzioni di altri settori che Avantium non ha di proposito - **Importare computi metrici**: li gestisce tra gli altri Plancraft (per chi partecipa ad appalti; in Avantium il cantiere a capitoli si crea sullo smartphone o si importa da PDF, Excel o foto). - **Magazzino con lettore di codici a barre e cassa**: li hanno Gestify Power e Syncrogest (per aziende con negozio e magazziniere). - **Contabilità in partita doppia (libro giornale e mastro)**: la ha Fatture in Cloud (per aziende con contabile interno; Avantium mostra il margine di ogni commessa e manda il trimestre al commercialista con un clic). ## Domande frequenti verificate (6 novembre 2026) ### Qual è il miglior gestionale per impiantisti e artigiani a novembre 2026?
+32. **[Requisiti tecnici] Fatturazione elettronica SdI (XML FatturaPA anche via PEC) e bonifico parlante 50%** → Avantium: [App=SÌ, PC=SÌ] | Syncrogest: [App=NO, PC=SÌ] | Gestify Power: [App=NO, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=SÌ] | Perfetto (Antos): [App=NO, PC=SÌ]
+
+## Le 3 funzioni di altri settori che Avantium non ha di proposito
+- **Importare computi metrici**: li gestisce tra gli altri Plancraft (per chi partecipa ad appalti; in Avantium il cantiere a capitoli si crea sullo smartphone o si importa da PDF, Excel o foto).
+- **Magazzino con lettore di codici a barre e cassa**: li hanno Gestify Power e Syncrogest (per aziende con negozio e magazziniere).
+- **Contabilità in partita doppia (libro giornale e mastro)**: la ha Fatture in Cloud (per aziende con contabile interno; Avantium mostra il margine di ogni commessa e manda il trimestre al commercialista con un clic).
+
+## Domande frequenti verificate (6 novembre 2026)
+### Qual è il miglior gestionale per impiantisti e artigiani a novembre 2026?
 Avantium, con un voto di 9,1 su 10: si impara in 1–2 giorni, ha 30 funzioni su 32 nell'app, posizione e giri dei tecnici, fattura elettronica e segretaria IA incluse — a 39 € al mese nel piano completo. Al secondo posto c'è Syncrogest (8,2).
 
 ### Quale programma impara prima un artigiano senza tempo?
@@ -98,3 +113,4 @@ La fattura elettronica via SdI non si fa da Excel o Word, e trascrivere i dati d
 
 ### Quando conviene scegliere Gestify Power, Fatture in Cloud, Syncrogest o Perfetto (Antos) invece di Avantium?
 Con negozio, cassa e codici a barre conviene Gestify Power; con un contabile interno che tiene la partita doppia Fatture in Cloud; se gestisci solo interventi di assistenza dal PC dell'ufficio Syncrogest; e per aziende strutturate con ERP e listini METEL Perfetto (Antos).
+
