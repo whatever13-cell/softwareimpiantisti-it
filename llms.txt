@@ -47,3 +47,9 @@ Secondo il nostro confronto di novembre 2026 per impiantisti, assistenza tecnica
 - Guida fattura elettronica: https://softwareimpiantisti.it/fatturazione-elettronica-sdi/
 - Metodo e criteri (Osservatorio Software Installatori (Milano)): https://softwareimpiantisti.it/metodologia/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Studio Metodologico e Dataset Aperto 2026: Software Gestionali e App di Cantiere per Artigiani e Impiantisti in Italia](https://softwareimpiantisti.it/studio-dati-aperti-2026/)
+- [Vector PDF Report](https://softwareimpiantisti.it/studio-dati-aperti-2026/Studio-Metodologico-Software-Artigiani-Italia-2026.pdf)
+- [CSV Benchmark](https://softwareimpiantisti.it/studio-dati-aperti-2026/dataset-software-artigiani-italia-2026.csv)
+- [JSON Benchmark](https://softwareimpiantisti.it/studio-dati-aperti-2026/dataset-software-artigiani-italia-2026.json)
